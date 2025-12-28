@@ -57,6 +57,7 @@ The dataset includes vendor purchase records, sales transactions, freight charge
 ---
 
 ## 📁 Project Structure
+
 ├── data/
 ├── scripts/
 ├── get_vendor_summary.py
@@ -64,8 +65,11 @@ The dataset includes vendor purchase records, sales transactions, freight charge
 ├── Vendor Performance Analysis.ipynb
 ├── Exploratory Data Analysis.ipynb
 ├── logs/
-├── README.md
+└── README.md
 
-👤 Author
-Akshat Sharma
-Data Analytics & Machine Learning Enthusiast
+---
+
+## 👤 Author
+
+**Akshat Sharma**  
+Data Analytics & Machine Learning Enthusiast  
