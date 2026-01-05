@@ -57,7 +57,7 @@ The dataset includes vendor purchase records, sales transactions, freight charge
 ---
 
 ## 📁 Project Structure
-
+```
 ├── data/
 ├── scripts/
 ├── get_vendor_summary.py
@@ -66,7 +66,7 @@ The dataset includes vendor purchase records, sales transactions, freight charge
 ├── Exploratory Data Analysis.ipynb
 ├── logs/
 └── README.md
-
+```
 ---
 
 ## 👤 Author
